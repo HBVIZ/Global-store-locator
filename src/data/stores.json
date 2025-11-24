@@ -1,0 +1,102 @@
+[
+  {
+    "country": "United States",
+    "stores": [
+      {
+        "name": "Dyson Store - SoHo",
+        "address": "21 Greene St",
+        "city": "New York",
+        "state": "NY",
+        "lat": 40.7253,
+        "lng": -73.9983
+      },
+      {
+        "name": "Dyson Store - 5th Ave",
+        "address": "640 5th Avenue",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10019",
+        "lat": 40.7597,
+        "lng": -73.9767
+      },
+      {
+        "name": "Dyson Store - Union Square",
+        "address": "285 Geary St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94102",
+        "lat": 37.7879,
+        "lng": -122.4075
+      },
+      {
+        "name": "Dyson Store - Valley Fair",
+        "address": "2855 Stevens Creek Blvd",
+        "city": "Santa Clara",
+        "state": "CA",
+        "zip": "95050",
+        "lat": 37.3253,
+        "lng": -121.9452
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "stores": [
+      {
+        "name": "Dyson Store & Beauty Lab - Oxford Street",
+        "address": "447 Oxford St",
+        "city": "London",
+        "zip": "W1C 2PR",
+        "lat": 51.5138,
+        "lng": -0.1533
+      },
+      {
+        "name": "Dyson Store - Harrods",
+        "address": "87–135 Brompton Road",
+        "city": "London",
+        "zip": "SW1X 7XL",
+        "lat": 51.4994,
+        "lng": -0.1632
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "stores": [
+      {
+        "name": "Dyson Store - Opéra",
+        "address": "5 Rue Auber",
+        "city": "Paris",
+        "lat": 48.8719,
+        "lng": 2.3316
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "stores": [
+      {
+        "name": "Dyson Store - Omotesando",
+        "address": "3-11-7 Kita-Aoyama, Minato-ku",
+        "city": "Tokyo",
+        "zip": "107-0061",
+        "lat": 35.6637,
+        "lng": 139.7104
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "stores": [
+      {
+        "name": "Dyson Store - Brookfield Place",
+        "address": "285 George Street",
+        "city": "Sydney",
+        "state": "NSW",
+        "zip": "2000",
+        "lat": -33.8647,
+        "lng": 151.2064
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'Dyson Futura';
+  src: url('./assets/fonts/DysonFutura-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dyson Futura';
+  src: url('./assets/fonts/DysonFutura-Book.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dyson Futura';
+  src: url('./assets/fonts/DysonFutura-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dyson Futura';
+  src: url('./assets/fonts/DysonFutura-Heavy.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+:root {
+  font-family: 'Dyson Futura', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
